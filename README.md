@@ -10,7 +10,6 @@
 ## 📱 Demonstração
 
 🔗 **Acesse online agora:** [https://churrascometro-flame.vercel.app](https://churrascometro-flame.vercel.app)
-
 ---
 
 ## 📸 Screenshots
