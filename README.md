@@ -47,7 +47,7 @@ Este projeto foi desenvolvido com foco em **Performance**, **Usabilidade (UX)** 
 
 1.  **Clone o repositório**
     ```bash
-    git clone [https://github.com/rafaelrsc7/Churrascometro.git](https://github.com/rafaelrsc7/Churrascometro.git)
+    git clone https://github.com/rafaelrsc7/Churrascometro.git
     ```
 2.  **Abra a pasta do projeto**
     ```bash
