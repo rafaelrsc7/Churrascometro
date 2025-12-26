@@ -9,7 +9,7 @@
 
 ## 📱 Demonstração
 
-🔗 **Acesse online agora:** [https://churrascometro.vercel.app](https://churrascometro.vercel.app)
+🔗 **Acesse online agora:** [https://churrascometro-flame.vercel.app](https://churrascometro-flame.vercel.app)
 
 ---
 
